@@ -52,7 +52,7 @@ Setiap tugas atau proyek mungkin memiliki README tersendiri dengan penjelasan sp
 
 ## 👨‍💻 Author
 
-**15-040-GianIvander**
+**GianIvander**
 
 ---
 
