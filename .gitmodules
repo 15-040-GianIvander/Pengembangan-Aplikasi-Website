@@ -1,0 +1,15 @@
+[submodule "pemweb"]
+	path = pemweb
+	url = https://github.com/15-040-GianIvander/pemweb.git
+[submodule "uts_pemweb_123140040"]
+	path = uts_pemweb_123140040
+	url = https://github.com/15-040-GianIvander/uts_pemweb_123140040.git
+[submodule "tugas_individu3"]
+	path = tugas_individu3
+	url = https://github.com/15-040-GianIvander/tugas_individu3.git
+[submodule "uas-paw-kelompok4"]
+	path = uas-paw-kelompok4
+	url = https://github.com/15-040-GianIvander/uas-paw-kelompok4.git
+[submodule "pemrograman_web_itera_123140040"]
+	path = pemrograman_web_itera_123140040
+	url = https://github.com/15-040-GianIvander/pemrograman_web_itera_123140040.git
